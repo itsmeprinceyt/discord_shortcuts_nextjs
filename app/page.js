@@ -6,13 +6,13 @@ export default function Main() {
   const Websites = [
     {
       title: "Sofi Bump",
-      src: "/static/images/Sofi.jpeg",
+      src: "/static/images/sofi.jpeg",
       image_alt: "Sofi",
       link: "https://sofi.gg/bump"
     },
     {
       title: "Sofi",
-      src: "/static/images/Sofi.jpeg",
+      src: "/static/images/sofi.jpeg",
       image_alt: "Sofi",
       link: "https://top.gg/bot/853629533855809596/vote"
     },

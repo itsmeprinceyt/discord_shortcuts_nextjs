@@ -6,7 +6,7 @@ export const metadata = {
   title: "Bookmark Shortcuts - ItsMe Prince",
   description: "Bookmark Shortcuts that makes my life easy. These are the bookmarks which I access regularly!",
   icons: {
-    icon: "/logo.png"
+    icon: "/Logo.png"
   },
 };
 
